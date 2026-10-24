@@ -59,6 +59,14 @@ A restaurant-themed web development project.
 
 🔗 **Repository:** [Restaurant Website](https://github.com/Ajishini/restuarant)
 
+### 👗 StyleMatch – Fashion E-commerce Website
+
+A React-based fashion shopping website featuring product browsing, search and filtering, cart and wishlist functionality, and matching outfit suggestions.
+
+**Technologies:** React, JavaScript, HTML, CSS, Bootstrap
+
+🔗 [View Project on GitHub](https://github.com/Ajishini/stylematch)
+
 *Add the actual technologies, features, and screenshots used in this project to make the description more specific.*
 
 ## 🧪 Software Testing Interests
